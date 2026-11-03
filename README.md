@@ -3,7 +3,7 @@ OfflineMind - 100% offline, privacy-first AI assistant that runs locally on Wind
 
 # OfflineMind 🧠 - Offline AI Assistant
 
-A 100% offline, privacy-first AI assistant that runs locally on your 【entity-Dell¦canonical_name=Dell】/Windows PC. No cloud. No API keys. Full privacy.
+A 100% offline, privacy-first AI assistant that runs locally on your Dell /Windows PC. No cloud. No API keys. Full privacy.
 
 ## Why?
 In 2026, privacy matters. OfflineMind proves you can run powerful AI without sending data to OpenAI or Google.
