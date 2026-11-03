@@ -20,7 +20,7 @@ def ask_offlinemind(prompt):
 
 # Teste inicial
 if __name__ == "__main__":
-    print("🧠 OfflineMind iniciado - 100% offline no seu 【entity-Dell¦canonical_name=Dell】")
+    print("🧠 OfflineMind iniciado - 100% offline no seu Dell")
     print("Digite 'sair' para encerrar\n")
     
     while True:
